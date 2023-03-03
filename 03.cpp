@@ -18,8 +18,7 @@ using namespace std;
 const int INF = 1e9;
 
 /*
-Na questao ele cita um arquivo, mas não estava disponivel. Portanto, vou mostrar a logica
-com que eu percorreria esse vetor, para resolver a questão.
+Revi no email, os arquivos, e fiz a solução correta em javascript.
 */
 
 int solucao()
